@@ -29,7 +29,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rksingh620&show_icons=true)
+[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rksingh620)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/rksingh620
