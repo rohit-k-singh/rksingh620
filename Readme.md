@@ -17,7 +17,7 @@
 
 ## Github Stats and Activity Summary
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=rohit-k-singh&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-k-singh&theme=github_dark)
 
