@@ -19,17 +19,10 @@
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rksingh620&theme=github_dark)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-k-singh&theme=github_dark)
 
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rksingh620&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rksingh620&theme=github_dark&utcOffset=5)
-
-## Badges
-
-[@rksingh620's Holopin board](https://raw.githubusercontent.com/rksingh620/rksingh620/main/assets/ccp-badge.png)
-[![@rksingh620's Holopin board](https://holopin.me/rksingh620)](https://holopin.io/@rksingh620)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit-k-singh&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit-k-singh&theme=github_dark&utcOffset=5)
 
 ## Connect with me
 
 [![Website](https://img.shields.io/badge/Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](https://thebetadev.tech/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rksingh620/)
-
-<!-- [![Blog](https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://blogs.aayushkurup.dev/) [![Hashnode](https://img.shields.io/twitter/follow/AayushK_47?logo=Twitter&style=for-the-badge)](https://twitter.com/AayushK_47) -->
